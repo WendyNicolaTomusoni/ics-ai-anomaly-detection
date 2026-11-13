@@ -56,3 +56,4 @@ Industrial cybersecurity must consider confidentiality, integrity, availability 
 ### Connection to Our Project
 
 Our project will monitor communication in a simulated water treatment plant and use machine learning to identify unusual network behaviour.
+git add docs/learning-notes.md
