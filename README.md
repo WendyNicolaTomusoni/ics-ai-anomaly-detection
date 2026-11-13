@@ -46,7 +46,17 @@ results/      Experimental results
 
 ## Project Status
 
-Stage 1: Project setup and repository creation.
+- [x] Stage 1: Project setup and GitHub repository creation.
+- [x] Stage 2, Lesson 1: Introduction to Industrial Control Systems (ICS).
+- [ ] Stage 2, Lesson 2: PLC, SCADA and Modbus/TCP communication.
+- [ ] Stage 3: System architecture and asset inventory.
+- [ ] Stage 4: Threat modelling and risk assessment.
+- [ ] Stage 5: Simulated water treatment plant.
+- [ ] Stage 6: Network traffic collection.
+- [ ] Stage 7: AI anomaly detection model.
+- [ ] Stage 8: Monitoring dashboard.
+- [ ] Stage 9: Resilience testing and evaluation.
+- [ ] Stage 10: Final documentation and presentation.
 
 ## Safety
 
