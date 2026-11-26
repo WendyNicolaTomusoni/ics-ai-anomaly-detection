@@ -50,7 +50,7 @@ results/      Experimental results
 - [x] Stage 2, Lesson 1: Introduction to Industrial Control Systems (ICS).
 - [x] Stage 2, Lesson 2: PLC, SCADA and Modbus/TCP communication.
 - [x] Stage 2, Lesson 3: Water treatment plant architecture.
-- [ ] Stage 3: System architecture and asset inventory.
+- [x] Stage 3: System architecture and asset inventory.
 - [ ] Stage 4: Threat modelling and risk assessment.
 - [ ] Stage 5: Simulated water treatment plant.
 - [ ] Stage 6: Network traffic collection.
