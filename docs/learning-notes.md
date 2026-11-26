@@ -57,3 +57,31 @@ Industrial cybersecurity must consider confidentiality, integrity, availability 
 
 Our project will monitor communication in a simulated water treatment plant and use machine learning to identify unusual network behaviour.
 git add docs/learning-notes.md
+### Lesson 2: PLC, SCADA and Modbus/TCP
+
+**PLC (Programmable Logic Controller):**
+An industrial computer that receives sensor information, executes programmed logic and controls equipment.
+
+**SCADA (Supervisory Control and Data Acquisition):**
+A system that allows operators to monitor and supervise industrial processes.
+
+**Difference between PLC and SCADA:**
+The PLC handles local control operations, while SCADA provides supervisory monitoring and control.
+
+**Modbus:**
+An industrial communication protocol used by devices to exchange information.
+
+**Modbus/TCP:**
+A version of Modbus that communicates over TCP/IP networks, commonly using TCP port 502.
+
+**Client:**
+The device that initiates a communication request.
+
+**Server:**
+The device that receives a request and sends a response.
+
+**Cybersecurity relevance:**
+Unauthorised Modbus requests, unusual communication frequency and manipulated register values may indicate suspicious activity.
+
+**Connection to our project:**
+Our simulated water treatment plant will use industrial communication concepts to generate normal and abnormal network behaviour for our AI anomaly detection system.
