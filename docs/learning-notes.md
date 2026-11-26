@@ -85,3 +85,33 @@ Unauthorised Modbus requests, unusual communication frequency and manipulated re
 
 **Connection to our project:**
 Our simulated water treatment plant will use industrial communication concepts to generate normal and abnormal network behaviour for our AI anomaly detection system.
+
+### Lesson 3: Water Treatment Plant Architecture
+
+**Project scenario:**
+Our project uses a simulated water treatment plant to demonstrate industrial control system cybersecurity.
+
+**Physical process:**
+The plant contains a water tank, pipes, pumps and valves.
+
+**Sensors:**
+- Water-level sensor: Measures the amount of water in the tank.
+- Pressure sensor: Measures water pressure.
+- Flow sensor: Measures the rate of water movement.
+
+**Control system:**
+- PLC: Receives sensor readings, executes control logic and operates pumps and valves.
+- SCADA/HMI: Allows operators to monitor the process and send supervisory commands.
+- Industrial network: Connects industrial devices and allows communication using Modbus/TCP.
+
+**AI monitoring system:**
+A separate Python-based monitoring system observes industrial network traffic and identifies unusual behaviour using machine learning.
+
+**Important safety decision:**
+The AI system will generate alerts and record suspicious activity. It will not automatically control or shut down industrial equipment.
+
+**Example cybersecurity threat:**
+An unauthorised device sending an unusually high number of Modbus requests to the PLC could indicate suspicious activity.
+
+**Connection to our project:**
+We will simulate normal and abnormal industrial network communication, collect traffic data and use machine learning to identify anomalies.
