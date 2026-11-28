@@ -51,7 +51,7 @@ results/      Experimental results
 - [x] Stage 2, Lesson 2: PLC, SCADA and Modbus/TCP communication.
 - [x] Stage 2, Lesson 3: Water treatment plant architecture.
 - [x] Stage 3: System architecture and asset inventory.
-- [ ] Stage 4: Threat modelling and risk assessment.
+- [x] Stage 4: Threat modelling and risk assessment.
 - [ ] Stage 5: Simulated water treatment plant.
 - [ ] Stage 6: Network traffic collection.
 - [ ] Stage 7: AI anomaly detection model.
