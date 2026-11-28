@@ -115,3 +115,14 @@ An unauthorised device sending an unusually high number of Modbus requests to th
 
 **Connection to our project:**
 We will simulate normal and abnormal industrial network communication, collect traffic data and use machine learning to identify anomalies.
+## Stage 4, Lesson 2: Resilience Strategy and Recovery Planning
+
+- Resilience is the ability to prepare for, withstand, respond to, and recover from disruptions.
+- Prevention reduces the likelihood of incidents.
+- Detection identifies suspicious activity and equipment problems.
+- Response limits the impact of incidents.
+- Recovery restores normal operations safely.
+- Backups provide copies of important data.
+- Redundancy provides alternative components when primary components fail.
+- Incident response plans define responsibilities and recovery procedures.
+- AI anomaly detection supports the detection stage but does not automatically repair or control industrial equipment.

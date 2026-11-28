@@ -54,6 +54,7 @@ results/      Experimental results
 - [x] Stage 3: Threat modelling 
 - [x] Stage 3, Lesson 4: Vulnerability assessment and risk analysis.
 - [x] Stage 4, Lesson 1: Reliability and cybersecurity comparison.
+- [x] Stage 4, Lesson 2: Resilience strategy and recovery planning.
 - [ ] Stage 5: Simulated water treatment plant.
 - [ ] Stage 6: Network traffic collection.
 - [ ] Stage 7: AI anomaly detection model.
