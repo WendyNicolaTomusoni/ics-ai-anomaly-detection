@@ -57,3 +57,9 @@
 - Recovery restores normal operations.
 - Backups and redundancy support recovery.
 - AI anomaly detection supports detection, not automatic repair.
+## Stage 5: Simulated Water Treatment Plant
+### Lesson 1: Basic Simulation
+- A simulation represents an industrial process without requiring physical equipment.
+- Sensors provide measurements such as water level, pressure and flow.
+- A PLC uses control logic to operate equipment.
+- Hysteresis uses separate ON and OFF thresholds to prevent frequent switching.
